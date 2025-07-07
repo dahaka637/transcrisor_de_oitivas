@@ -1,0 +1,64 @@
+{
+    "preciso": {
+        "GPU": [],
+        "CPU": [
+            {
+                "audio_duracao": 300.01,
+                "tempo_real": 732
+            },
+            {
+                "audio_duracao": 365.43,
+                "tempo_real": 796
+            },
+            {
+                "audio_duracao": 751.84,
+                "tempo_real": 1767
+            },
+            {
+                "audio_duracao": 260.71,
+                "tempo_real": 713
+            },
+            {
+                "audio_duracao": 367.03,
+                "tempo_real": 884
+            },
+            {
+                "audio_duracao": 212.93,
+                "tempo_real": 603
+            },
+            {
+                "audio_duracao": 583.05,
+                "tempo_real": 1177
+            },
+            {
+                "audio_duracao": 19.1,
+                "tempo_real": 53
+            },
+            {
+                "audio_duracao": 139.66,
+                "tempo_real": 352
+            },
+            {
+                "audio_duracao": 893.37,
+                "tempo_real": 1883
+            }
+        ]
+    },
+    "moderado": {
+        "GPU": [],
+        "CPU": [
+            {
+                "audio_duracao": 376.86,
+                "tempo_real": 768
+            },
+            {
+                "audio_duracao": 376.86,
+                "tempo_real": null
+            },
+            {
+                "audio_duracao": 376.86,
+                "tempo_real": null
+            }
+        ]
+    }
+}
